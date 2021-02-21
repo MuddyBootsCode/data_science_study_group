@@ -1,5 +1,7 @@
 ## Practical Statistics for Data Scientists Study Group
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuddyBootsCode/data_science_study_group/blob/main/data_science.ipynb)
+
 For this group we'll be using the text: [Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Dedeck](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?crid=UBTVFA6OWEH6&dchild=1&keywords=practical+statistics+for+data+scientists&qid=1613917144&sprefix=practical+stat%2Caps%2C205&sr=8-1) and we're only doing the **Python** examples, if you want you can do the R as well but we will not be covering them. The goal is to work through one sub section of each chapter per week. For example, the first chapter, Exploratory Data Analysis has a subsection:
 
 ## Rectangular Data:
