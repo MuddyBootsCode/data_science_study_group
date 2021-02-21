@@ -24,6 +24,8 @@ Please fork the repo and then for each week create a branch, you can then name i
 
 ## mporter/data_frames_and_indexes
 
-# Meetings
+# Upcoming Meetings
 
 - 2/23 First meeting, introductions and go over expectations for the group
+
+# Past Meetings
