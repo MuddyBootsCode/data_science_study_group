@@ -23,3 +23,7 @@ Hopefully we'll be able to meet up and discuss the chapters once a week. Current
 Please fork the repo and then for each week create a branch, you can then name it something like this for week 1:
 
 ## mporter/data_frames_and_indexes
+
+# Meetings
+
+- 2/23 First meeting, introductions and go over expectations for the group
