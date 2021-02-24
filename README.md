@@ -30,4 +30,4 @@ Please fork the repo and then for each week create a branch, you can then name i
 
 # Past Meetings
 
-- 2/23 First meeting, introductions and go over expectations for the group
+- 2/23 First meeting, introductions and go over expectations for the group [Meeting video](https://youtu.be/0XmXrdRl2rI)
