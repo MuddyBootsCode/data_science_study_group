@@ -26,6 +26,8 @@ Please fork the repo and then for each week create a branch, you can then name i
 
 # Upcoming Meetings
 
-- 2/23 First meeting, introductions and go over expectations for the group
+- 3/2 Go over Exploratory Data Analysis sub sections: Elements of Structured Data and Rectangular Data
 
 # Past Meetings
+
+- 2/23 First meeting, introductions and go over expectations for the group
