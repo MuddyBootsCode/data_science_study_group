@@ -25,10 +25,11 @@ Please fork the repo and then for each week create a branch, you can then name i
 ## mporter/data_frames_and_indexes
 
 # Upcoming Meetings
-  - 3/23 Explore the data distribution 
+  - 3/30 
 
 # Past Meetings
 
 - 2/23 First meeting, introductions and go over expectations for the group [Meeting video](https://youtu.be/0XmXrdRl2rI)
 - 3/2 Go over Exploratory Data Analysis sub sections: Elements of Structured Data and Rectangular Data [2nd Meeting](https://youtu.be/uKR0GSNuVFA)
-- 3/16 Go over Estimates of Location and Estimates of Variability [3rd Meeting](https://youtu.be/3uNPcmo055g)
+- 3/16 Go over Estimates of Location and Estimates of Variability 
+- - 3/23 Explore the data distribution[4th Meeting](https://youtu.be/w2jG4QfXM4I)
