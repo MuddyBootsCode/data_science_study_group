@@ -25,7 +25,7 @@ Please fork the repo and then for each week create a branch, you can then name i
 ## mporter/data_frames_and_indexes
 
 # Upcoming Meetings
-  - 3/30 
+  - 3/30 Exploring Binary and Catagorical Data
 
 # Past Meetings
 
