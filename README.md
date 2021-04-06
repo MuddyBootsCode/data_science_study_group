@@ -25,7 +25,7 @@ Please fork the repo and then for each week create a branch, you can then name i
 ## mporter/data_frames_and_indexes
 
 # Upcoming Meetings
-  - 4/6 Correlation - (Possibly) exploring two or more variables
+  - 4/6 Correlation - (Possibly) exploring two or more variables *Postponed*
 
 # Past Meetings
 
