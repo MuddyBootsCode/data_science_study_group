@@ -16,7 +16,7 @@ Depending on how much effort is requried to complete the subsection we may break
 
 Hopefully we'll be able to meet up and discuss the chapters once a week. Currently we're looking at **Tuesdays at 6pm CST**. Here's a zoom link for the meeting: [here](https://zoom.us/j/97745088615) the meeting will also be recorded and posted so that it can be rewatched or used by people who could not make the meeting.
 
-If you cannot make the meetings we record them and post them on youtube. You can find the playlist [here](https://www.youtube.com/watch?v=0XmXrdRl2rI&list=PLTsp-DXanPCwGzwbhiO9dD8aTIgaIeeve)
+If you cannot make the meetings we record them and post them on youtube. You can find the playlist [here](https://www.youtube.com/watch?v=0XmXrdRl2rI&list=PLTsp-DXanPCwGzwbhiO9dD8aTIgaIeeve).
 
 # Git Repo
 
