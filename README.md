@@ -16,6 +16,8 @@ Depending on how much effort is requried to complete the subsection we may break
 
 Hopefully we'll be able to meet up and discuss the chapters once a week. Currently we're looking at **Tuesdays at 6pm CST**. Here's a zoom link for the meeting: [here](https://zoom.us/j/97745088615) the meeting will also be recorded and posted so that it can be rewatched or used by people who could not make the meeting.
 
+If you cannot make the meetings we record them and post them on youtube. You can find the playlist [here](https://www.youtube.com/watch?v=0XmXrdRl2rI&list=PLTsp-DXanPCwGzwbhiO9dD8aTIgaIeeve)
+
 # Git Repo
 
 [Data Science Group Repo](https://github.com/MuddyBootsCode/data_science_study_group)
@@ -25,7 +27,7 @@ Please fork the repo and then for each week create a branch, you can then name i
 ## mporter/data_frames_and_indexes
 
 # Upcoming Meetings
-  - 4/20 Correlation - (Possibly) exploring two or more variables
+  - 4/27 Exploring Two or More Variables
 
 # Past Meetings
 
@@ -34,3 +36,4 @@ Please fork the repo and then for each week create a branch, you can then name i
 - 3/16 Go over Estimates of Location and Estimates of Variability [3rd Meeting](https://youtu.be/3uNPcmo055g?list=PLTsp-DXanPCwGzwbhiO9dD8aTIgaIeeve)
 - 3/23 Explore the data distribution [4th Meeting](https://youtu.be/w2jG4QfXM4I)
 - 3/30 Exploring Binary and Catagorical Data [5th Meeting](https://youtu.be/fZRuNRKVQAU)
+- 4/20 Correlation [6th Meeting](https://youtu.be/OHsHdw8gIW8)
