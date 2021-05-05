@@ -27,7 +27,7 @@ Please fork the repo and then for each week create a branch, you can then name i
 ## mporter/data_frames_and_indexes
 
 # Upcoming Meetings
-  - 4/27 Exploring Two or More Variables
+  - 5/18 Selection Bias
 
 # Past Meetings
 
@@ -37,3 +37,4 @@ Please fork the repo and then for each week create a branch, you can then name i
 - 3/23 Explore the data distribution [4th Meeting](https://youtu.be/w2jG4QfXM4I)
 - 3/30 Exploring Binary and Catagorical Data [5th Meeting](https://youtu.be/fZRuNRKVQAU)
 - 4/20 Correlation [6th Meeting](https://youtu.be/OHsHdw8gIW8)
+- 5/4 Data and Sampling Distributions [7th Meeting](https://youtu.be/z5VGn01xNhs)
