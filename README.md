@@ -39,5 +39,5 @@ Please fork the repo and then for each week create a branch, you can then name i
 - 4/20 Correlation [6th Meeting](https://youtu.be/OHsHdw8gIW8)
 - 5/4 Data and Sampling Distributions [7th Meeting](https://youtu.be/z5VGn01xNhs)
 - 5/25 Selection Bias and Regression to the Mean [8th Meeting](https://youtu.be/UZN1mwC5oDk)
-- 6/20 Sampling Distribution of a Statistic [9th Meeting](https://youtu.be/YoGArkArMVg)
-- 6/27 Boot Strap method of creating sample data from populations [10th Meeting](https://youtu.be/Wy3la5HAfn0)
+- 7/20 Sampling Distribution of a Statistic [9th Meeting](https://youtu.be/YoGArkArMVg)
+- 7/27 Boot Strap method of creating sample data from populations [10th Meeting](https://youtu.be/Wy3la5HAfn0)
